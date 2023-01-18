@@ -1,4 +1,4 @@
-# CRUD simples com NodeJs
+# API - NodeJs
 
 ![Imagem do resultado do projeto](resultado.png)
 <br>
